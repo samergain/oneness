@@ -11,3 +11,4 @@
 - jwt and bcrypt installed
 - graphql/resolvers/users.js user registeration and password encryption 
 - added a code to resolvers-users to prevent username duplicates on registeration
+- added validation for signup and login
