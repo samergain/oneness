@@ -3,7 +3,7 @@
 ## Tutorial: https://www.youtube.com/watch?v=n1mdAPFq2Os  
 
 
-##  Documentation:  
+##  Documentation of the process:  
 - Server is set using ApolloServer  
 - MongoDB connected using Atlas
 - created models(Post, User) and tested the DB connection with Gql
@@ -13,3 +13,4 @@
 - added a code to resolvers-users to prevent username duplicates on registeration
 - added validation for signup and login
 - added getPosts and getPost by id to resolvers and typeDefs
+- added create post functionality
