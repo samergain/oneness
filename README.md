@@ -15,3 +15,4 @@
 - added getPosts and getPost by id to resolvers and typeDefs
 - added create post functionality
 - added delete post functionality (mutation in resolvers -> posts.js)
+- *working on comments* creating comments is added but needs work **this will be updated**
